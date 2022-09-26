@@ -1,0 +1,54 @@
+body{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+table{
+    width: 600px;
+    position: center;
+    background-position: center top;
+    background-image: url("man.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.head{
+    background-color:rgba(60, 99, 206, 0.5); 
+    text-align: justify;
+    /* padding: 50px; */
+    margin: auto;
+}
+caption {
+    color: antiquewhite;
+text-shadow: 1px 2px 2px whitesmoke;
+font-size: 45px;
+}
+.heading{
+    text-transform: uppercase;
+    background-color: blue;
+    color: aliceblue;
+}
+tr{
+    text-align: justify;
+    line-height: 30px;
+    font-style: italic;
+    font-family: monospace;
+}
+
+.first {
+
+ color: antiquewhite;
+}
+
+.text :hover{
+    color: rgb(255, 0, 255);
+    /* font-size: large; */
+}
+.sec{
+    color: aqua;
+}
+
+.third {
+    color: rgb(194, 63, 63);
+}
